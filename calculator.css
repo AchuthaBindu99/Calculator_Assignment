@@ -1,0 +1,183 @@
+.container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    
+}
+.calculator{
+    position: absolute;
+    color: black;
+    height: 349px;
+    width: 500px;
+    left: 490px;
+    top: 140px; 
+    background-color:whitesmoke;
+}
+.heading{
+    position: absolute;
+    left: 185px;
+    font-size: larger;
+
+}
+.calci_form{
+    position: absolute;
+    height: 290px;
+    left: 25px;
+    width: 445px;
+    top: 80px;
+
+}
+.entered_value{
+    position: absolute;
+    width: 370px;
+    height:30px;
+}
+.clear{
+    position: absolute;
+    left:380px;
+    width: 60px;
+    height: 35px;
+    color: white;
+    background-color:blue;
+}
+
+.finumbers{
+    position: absolute;
+    top:40px ;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.secnumbers{
+    position: absolute;
+    left: 127px;
+    top:40px;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.thirnumbers{
+   position: absolute;
+   left: 254px;
+   top:40px;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.divide{
+    position: absolute;
+    left: 380px;
+    top:40px;
+    width: 59px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.fournumbers{
+    position: absolute;
+    top:90px ;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.fivenumbers{
+    position: absolute;
+    left: 127px;
+    top:90px;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.sixnumbers{
+    position: absolute;
+    left: 254px;
+    top:90px;
+     width: 123px;
+     height: 45px;
+     background-color: blue;
+     color: white;
+}
+.substraction{
+    position: absolute;
+    left: 380px;
+    top:90px;
+    width: 59px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.sevennumbers{
+    position: absolute;
+    top:141px ;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.eightnumbers{
+    position: absolute;
+    left: 127px;
+    top:141px;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.ninenumbers{
+    position: absolute;
+    left: 254px;
+    top:141px;
+     width: 123px;
+     height: 45px;
+     background-color: blue;
+     color: white;
+}
+.Addition{
+    position: absolute;
+    left: 380px;
+    top:141px;
+    width: 59px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.dot{
+    position: absolute;
+    top:192px ;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.numbers{
+    position: absolute;
+    left: 127px;
+    top:192px;
+    width: 123px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
+.equal_to{
+    position: absolute;
+    left: 254px;
+    top:192px;
+     width: 123px;
+     height: 45px;
+     background-color: blue;
+     color: white;
+}
+.multi{
+    position: absolute;
+    left: 380px;
+    top:192px;
+    width: 59px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+}
